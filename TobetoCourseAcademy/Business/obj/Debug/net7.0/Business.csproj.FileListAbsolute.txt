@@ -1,0 +1,17 @@
+/Users/mac/Desktop/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.deps.json
+/Users/mac/Desktop/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.dll
+/Users/mac/Desktop/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.pdb
+/Users/mac/Desktop/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/mac/Desktop/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.dll
+/Users/mac/Desktop/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/mac/Desktop/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.pdb
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.dll
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.pdb
+/Users/mac/Desktop/TobetoCourseAcademy/Business/obj/Debug/net7.0/ref/Business.dll
