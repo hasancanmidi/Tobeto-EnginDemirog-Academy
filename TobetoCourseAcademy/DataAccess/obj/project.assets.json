@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "/Users/mac/Desktop/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
+      "projectPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/TobetoCourseAcademy/DataAccess/obj/",
+      "outputPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
@@ -52,8 +52,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/mac/Desktop/TobetoCourseAcademy/Entities/Entities.csproj": {
-              "projectPath": "/Users/mac/Desktop/TobetoCourseAcademy/Entities/Entities.csproj"
+            "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/Entities/Entities.csproj": {
+              "projectPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/Entities/Entities.csproj"
             }
           }
         }

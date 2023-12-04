@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/TobetoCourseAcademy/Entities/Entities.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/Entities/Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "/Users/mac/Desktop/TobetoCourseAcademy/Entities/Entities.csproj",
+      "projectPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/Entities/Entities.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/TobetoCourseAcademy/Entities/obj/",
+      "outputPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/Entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"

@@ -69,11 +69,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "/Users/mac/Desktop/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
+      "projectPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/TobetoCourseAcademy/ConsoleUI/obj/",
+      "outputPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/ConsoleUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
@@ -89,8 +89,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/mac/Desktop/TobetoCourseAcademy/Business/Business.csproj": {
-              "projectPath": "/Users/mac/Desktop/TobetoCourseAcademy/Business/Business.csproj"
+            "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/Business/Business.csproj": {
+              "projectPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/TobetoCourseAcademy/Business/Business.csproj"
             }
           }
         }
