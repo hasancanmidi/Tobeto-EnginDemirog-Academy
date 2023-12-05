@@ -1,0 +1,14 @@
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/bin/Debug/net7.0/Linq
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/bin/Debug/net7.0/Linq.deps.json
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/bin/Debug/net7.0/Linq.runtimeconfig.json
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/bin/Debug/net7.0/Linq.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/bin/Debug/net7.0/Linq.pdb
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/Linq.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/Linq.AssemblyInfo.cs
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/Linq.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/Linq.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/refint/Linq.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/Linq.pdb
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/Linq.genruntimeconfig.cache
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/Linq/Linq/obj/Debug/net7.0/ref/Linq.dll
