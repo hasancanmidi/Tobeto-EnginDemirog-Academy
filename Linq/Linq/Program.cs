@@ -31,6 +31,18 @@ List<Product> products = new List<Product>
         UnitsInStock = 0
     },
 };
+
+var result = products.Any(p => p.ProductName == "Acer Laptop"); // Any Methodu ile Eleman var mı yok mu kontrolü yapabiliriz.
+Console.WriteLine(result);
+
+products.Find(p => p.ProductId==3); //Aradığımız kritere uygun nesnenin kendisini veriyor.
+
+
+
+
+
+
+/*
 Console.WriteLine("Algoritmik----------------");
 foreach (var product in products)
 {
@@ -67,7 +79,7 @@ static List<Product> GetProductsLinq(List<Product> products)
 {
     return products.Where(p => p.UnitPrice > 5000 && p.UnitsInStock > 3).ToList();
 }
-
+*/
 
 
 class Product

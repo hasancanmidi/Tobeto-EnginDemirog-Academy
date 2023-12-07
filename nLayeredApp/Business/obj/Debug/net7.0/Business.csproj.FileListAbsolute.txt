@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/bin/Debug/net7.0/Business.deps.json
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/bin/Debug/net7.0/Business.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/bin/Debug/net7.0/Business.pdb
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/obj/Debug/net7.0/Business.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/obj/Debug/net7.0/Business.pdb
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Business/obj/Debug/net7.0/ref/Business.dll
