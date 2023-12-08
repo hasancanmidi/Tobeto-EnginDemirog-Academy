@@ -9,3 +9,9 @@
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/obj/Debug/net7.0/DataAccess.pdb
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/bin/Debug/net7.0/Core.pdb
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete

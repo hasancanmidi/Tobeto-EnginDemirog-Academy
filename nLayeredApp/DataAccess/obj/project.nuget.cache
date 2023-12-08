@@ -1,20 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "gy3FrtWQBluEOFwsuRY2q/rpmfENsY5lYouxbIfW0LGb1RNUJvDvnk5GPUesNrO2db/QoHDTPVvJxfl2yr/4aA==",
+  "dgSpecHash": "YG0pSQGQibJvcf7ZwbsfT4aia0RK9Ii77okHdJIBUVlZOW7snctlKHRZI6j2PzWP/XcnwQrsTz+53ewxAz7SDQ==",
   "success": true,
   "projectFilePath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/DataAccess/DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/microsoft.entityframeworkcore/7.0.14/microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.14/microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.14/microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.14/microsoft.entityframeworkcore.inmemory.7.0.14.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "/Users/mac/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/system.linq.dynamic.core/1.3.7/system.linq.dynamic.core.1.3.7.nupkg.sha512"
   ],
   "logs": []
