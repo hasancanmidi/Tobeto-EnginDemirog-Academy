@@ -1,5 +1,7 @@
 using Business;
+using Business.Abstracts;
 using DataAccess;
+using Entities.Concretes;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,7 @@ builder.Services.AddDataAccessServices(builder.Configuration);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<Business.Abstracts.IProductServices, Business.Concretes.ProductManager>();
 
 var app = builder.Build();
 

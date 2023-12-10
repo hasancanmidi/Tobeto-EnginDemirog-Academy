@@ -2,7 +2,7 @@ using Core.Entities;
 
 namespace Entities.Concretes;
 
-public class Product:Entity<int>
+public class Product:Entity<Guid>
 {
     public string ProductName { get; set; }
     public decimal UnitPrice { get; set; }

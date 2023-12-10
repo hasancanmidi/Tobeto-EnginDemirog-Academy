@@ -4,10 +4,10 @@ using DataAccess.Contexts;
 using Entities.Concretes;
 
 namespace DataAccess.Concretes;
-
-public class EfProductDal:EfRepositoryBase<Product,int,NorthwindContext>,IProductDal
+//EF entity framework
+public class EfProductDal:EfRepositoryBase<Product,Guid,NorthwindContext>,IProductDal
 {
-    public EfProductDal(NorthwindContext context) : base(context)
+    public EfProductDal(NorthwindContext context) : base(context) //Constructor
     {
     }
 }

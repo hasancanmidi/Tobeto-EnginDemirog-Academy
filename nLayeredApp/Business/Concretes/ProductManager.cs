@@ -4,11 +4,10 @@ using DataAccess.Abstracts;
 using Entities.Concretes;
 
 namespace Business.Concretes;
-
-public class ProductManager:IProductService
+//İş kurallarının yazıldıgı yer
+public class ProductManager:IProductServices //interface
 {
-    IProductDal _productDal;
-
+    IProductDal _productDal; //Dependence Injection - Dataccess çağrıyor
     public ProductManager(IProductDal productDal)
     {
         _productDal = productDal;

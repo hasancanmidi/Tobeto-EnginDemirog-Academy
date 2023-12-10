@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u1O146jgGnBEe8iIJYG0Vm6lAK5RydYcRrlAjtS+btqIbpPyarQo537PCLOUfmJHcEGhKcVRKVE4Qpyuh8hXmg==",
+  "dgSpecHash": "O+zTfxAZ6CgyNpkyun1Y9IQUsxN0P0EbZNmTxIndBgGaSB+a0g3NOKQsuACfLHcOO5TSph7vP84JdUw8oqOBcg==",
   "success": true,
   "projectFilePath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/nLayeredApp/Core/Core.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "/Users/mac/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512",
     "/Users/mac/.nuget/packages/system.linq.dynamic.core/1.3.7/system.linq.dynamic.core.1.3.7.nupkg.sha512"
   ],
   "logs": []

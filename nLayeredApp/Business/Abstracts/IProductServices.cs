@@ -3,7 +3,7 @@ using Entities.Concretes;
 
 namespace Business.Abstracts;
 
-public interface IProductService
+public interface IProductServices
 {
     Task<IPaginate<Product>> GetListAsync();
     Task Add(Product product);
