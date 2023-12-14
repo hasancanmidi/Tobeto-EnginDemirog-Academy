@@ -11,12 +11,20 @@ public class EfProductDal:IProductDal
 
     public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
     {
-        throw new NotImplementedException();
+        using (NorthwindContext context = new NorthwindContext())
+        {
+            return filter == null
+                ? context.Set<Product>().ToList()
+                : context.Set<Product>().Where(filter).ToList(); //Arkaplanda select * from product döndürüyor
+        }
     }
 
     public Product Get(Expression<Func<Product, bool>> filter)
     {
-        throw new NotImplementedException();
+        using (NorthwindContext context = new NorthwindContext())
+        {
+            return context.Set<Product>().SingleOrDefault(filter);
+        }
     }
 
     public void Add(Product entity)
@@ -64,4 +72,6 @@ public class EfProductDal:IProductDal
    *addedEntity.State = EntityState.Added; //Eklenecek nesne : Bu satır, addedEntity nesnesinin durumunu EntityState.Added olarak ayarlar. Bu, nesnenin veritabanına eklenecek olduğunu gösterir.
    *context.SaveChanges(); //Eklendi : Bu satır, context.SaveChanges() yöntemini kullanarak, nesneyi veritabanına kaydeder.
 
+
+    *context.Set<Product>() yöntemi, veritabanındaki Product tablosuna erişim sağlar.
 */
