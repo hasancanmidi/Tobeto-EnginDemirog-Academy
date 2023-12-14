@@ -1,3 +1,4 @@
+using System.Linq.Expressions;
 using DataAccess.Abstract;
 using Entities.Concrete;
 
@@ -24,9 +25,16 @@ public class InMemoryProductDal:IProductDal
     {
         return _products;
     }
-    public List<Product> GelAll()
+
+
+    public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
     {
-        return _products;
+        throw new NotImplementedException();
+    }
+
+    public Product Get(Expression<Func<Product, bool>> filter)
+    {
+        throw new NotImplementedException();
     }
 
     public void Add(Product product)
@@ -42,17 +50,13 @@ public class InMemoryProductDal:IProductDal
         productToUpdate.CategoryId = product.CategoryId;
         productToUpdate.UnitPrice = product.UnitPrice;
         productToUpdate.UnitInStock = product.UnitInStock;
-
     }
 
     public void Delete(Product product)
     {
         Product productToDelete = _products.SingleOrDefault(p=>p.ProductId == product.ProductId);
         _products.Remove(productToDelete);
-        
         // LINQ 
-        // Lambda
-
     }
 
     public List<Product> GetAllByCategory(int categoryId)

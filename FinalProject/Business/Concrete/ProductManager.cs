@@ -19,6 +19,6 @@ public class ProductManager : IProductService
         //İş Kodları
         //Yetkisi varmı ?
         //Herşey geçtiyse ürünleri ver
-        return _ProductDal.GelAll();
+        return _ProductDal.GetAll();
     }
 }

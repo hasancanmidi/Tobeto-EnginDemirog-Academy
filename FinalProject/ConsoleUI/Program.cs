@@ -1,5 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-using Business.Concrete;
+﻿using Business.Concrete;
 using DataAccess.Concrete.InMemory;
 
 ProductManager productManager = new ProductManager(new InMemoryProductDal());
