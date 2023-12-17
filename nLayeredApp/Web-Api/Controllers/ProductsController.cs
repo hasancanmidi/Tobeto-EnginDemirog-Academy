@@ -1,4 +1,5 @@
 using Business.Abstracts;
+using Business.Dtos.Request;
 using Entities.Concretes;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -16,11 +17,11 @@ namespace WebAPI.Controllers
             _productService = productService;
         }
 
-        [HttpPost] public async Task<IActionResult> Add([FromBody] Product product) 
+        [HttpPost] public async Task<IActionResult> Add([FromBody] CreateProductRequest createProductRequest) 
 
         { 
-            await _productService.Add(product); 
-            return Ok(); 
+            var result = await _productService.Add(createProductRequest); 
+            return Ok(result); 
         }
 
         [HttpGet] public async Task<IActionResult> GetList() 

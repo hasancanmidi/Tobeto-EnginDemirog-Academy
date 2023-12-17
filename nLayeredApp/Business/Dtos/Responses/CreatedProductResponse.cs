@@ -1,13 +1,10 @@
-using Core.Entities;
+namespace Business.Dtos.Responses;
 
-namespace Entities.Concretes;
-
-public class Product:Entity<int>
+public class CreatedProductResponse
 {
-    public int CategoryId { get; set; }
+    public Guid Id { get; set; }
     public string ProductName { get; set; }
     public decimal UnitPrice { get; set; }
     public short UnitsInStock { get; set; }
     public string QuantityPerUnit { get; set; }
-    public Category Category { get; set; }
 }
