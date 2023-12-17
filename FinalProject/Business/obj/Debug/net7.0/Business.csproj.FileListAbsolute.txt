@@ -15,3 +15,5 @@
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Business/obj/Debug/net7.0/refint/Business.dll
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Business/obj/Debug/net7.0/Business.pdb
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Business/bin/Debug/net7.0/Core.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Business/bin/Debug/net7.0/Core.pdb

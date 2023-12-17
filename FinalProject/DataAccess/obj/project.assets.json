@@ -961,9 +961,22 @@
           }
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
@@ -2620,6 +2633,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -2628,6 +2646,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Core >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.14"
     ]
@@ -2658,6 +2677,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Core/Core.csproj": {
+              "projectPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Core/Core.csproj"
+            },
             "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/Entities.csproj": {
               "projectPath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/Entities.csproj"
             }

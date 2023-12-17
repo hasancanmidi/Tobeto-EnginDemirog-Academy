@@ -1,4 +1,4 @@
-using Entities.Abstract;
+using Core.Entities;
 
 namespace Entities.Concrete;
 
@@ -9,3 +9,4 @@ public class Customer:IEntity
     public string CompanyName { get; set; }
     public string City { get; set; }
 }
+

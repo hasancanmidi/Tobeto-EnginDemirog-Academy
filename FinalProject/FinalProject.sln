@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{F6D2022B-01BA-49AB-AF45-0308280DF691}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{AB0FED70-2865-40CA-8650-F2CF2FC96C8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{F6D2022B-01BA-49AB-AF45-0308280DF691}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D2022B-01BA-49AB-AF45-0308280DF691}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D2022B-01BA-49AB-AF45-0308280DF691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0FED70-2865-40CA-8650-F2CF2FC96C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0FED70-2865-40CA-8650-F2CF2FC96C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0FED70-2865-40CA-8650-F2CF2FC96C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0FED70-2865-40CA-8650-F2CF2FC96C8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

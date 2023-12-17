@@ -9,3 +9,7 @@
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/obj/Debug/net7.0/refint/Entities.dll
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/obj/Debug/net7.0/Entities.pdb
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/bin/Debug/net7.0/Core.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/bin/Debug/net7.0/Core.pdb
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Entities/obj/Debug/net7.0/Entities.csproj.CopyComplete
