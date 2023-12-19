@@ -9,3 +9,4 @@
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Core/obj/Debug/net7.0/refint/Core.dll
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Core/obj/Debug/net7.0/Core.pdb
 /Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Core/obj/Debug/net7.0/ref/Core.dll
+/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/FinalProject/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
