@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JYpraa1hTOVY7mBAx3KAtAOrpFZ5Swl+8APB9SdSfwl42jt6VJIqMovsRVCnGSGDEqwGDdPXVnbc954zrGULMg==",
+  "dgSpecHash": "3fNZV0/RlKsfYne9kXLbrxymsswrSMNa9Bb2lg+k16Okb1NUtX7SVFkg/yCHbH1WFpvGlrXi95lkq0bO6PDJyA==",
   "success": true,
-  "projectFilePath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/ReCapProject/Entities/Entities.csproj",
+  "projectFilePath": "/Users/mac/Desktop/Tobeto-EnginDemirog-Academy/ReCapProject/Core/Core.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/microsoft.entityframeworkcore/7.0.14/microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.14/microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",

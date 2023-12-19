@@ -4,7 +4,7 @@ using Entities.Concretes;
 
 namespace DataAccess.Concretes.EntityFramework;
 
-public class EfCarDal:ICarDal
+public class EfCarDal
 {
     public void GetById(Expression<Func<Car, bool>> filter = null)
     {

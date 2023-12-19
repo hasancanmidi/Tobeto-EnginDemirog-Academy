@@ -4,7 +4,7 @@ using Entities.Concretes;
 
 namespace DataAccess.Concretes.InMemory;
 
-public class InMemoryCarDal:ICarDal
+public class InMemoryCarDal
 {
     public void GetById(Expression<Func<Car, bool>> filter = null)
     {
